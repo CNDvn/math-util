@@ -10,5 +10,3 @@
 [My email](mailto: banhduchieucode@gmai.com)
 
 © 2021 CNDvn
-
-<h1 style="color:red"> hello </h1>
